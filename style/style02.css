@@ -1,0 +1,117 @@
+﻿#wrapper{
+margin:0 auto;
+width:1224px;
+outline:1px solid Black;
+height:3537px;
+}
+
+header{
+height:25px;
+background-color:#4682B4;
+padding:30px;
+color:#AFEEEE;
+font-weight:bold;
+font-size:40px;
+text-align:center;
+vertical-align:middel;
+text-transform:uppercase;
+}
+
+ul.css-menu{
+margin:10px auto;
+padding:4px;
+text-align:center;
+}
+
+ul.css-menu li{
+display:inline;
+margin:20px;
+border:1px solid #4682B4;
+padding:3px;
+font-size:30px;
+}
+
+#leftbar{
+float:left;
+}
+
+#leftbar1{
+width:250px;
+height:140px;
+background-color:#4682B4;
+margin:0 10px 0 10px;
+border:4px dotted white;
+border-radius:10px 40px;
+font-size:x-large;
+text-align:center;
+padding:5px;
+color:#AFEEEE;
+}
+
+#leftbar2{
+color:#AFEEEE;
+width:250px;
+height:720px;
+background-color:#4682B4;
+margin:40px 10px 0 10px;
+border:4px dotted white;
+border-radius:10px 40px;
+font-size:x-large;
+text-align:center;
+padding:5px;
+}
+
+#leftbar2 img{
+margin:10px auto;
+}
+
+#leftbar2 img:hover{
+overflow:hidden;
+-webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
+
+}
+
+#content{
+height:3000px;
+background-color:#B0E0E6;
+width:920px;
+margin:0 auto;
+outline:1px solid #4682B4;
+text-align:justify;
+float:right;
+}
+
+p{
+text-indent:60px;
+margin:5px 20px;
+}
+
+#o1{
+margin:0 20px 0 0;
+}
+
+.topbutton{
+width:100px;
+border:2px solid #4682B4;
+padding:10px;
+cursor:pointer;
+font-size:12px;
+font-size:x-large;
+}
+
+#margin{
+margin:20px 20px 20px 625px;
+}
+
+footer{
+height:50px;
+width:1224px;
+color:#AFEEEE;
+background-color:#4682B4;
+margin:10px auto;
+font-family:"Mistral";
+font-size:x-large;
+text-align:center;
+}
